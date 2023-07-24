@@ -1,0 +1,1 @@
+A protein clash search engine is a critical tool for structural biologists and researchers working in the field of molecular biology. It serves a fundamental purpose in identifying and analyzing potential clashes between atoms within protein structures obtained from experimental data or computational models.
